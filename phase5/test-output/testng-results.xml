@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="121978" started-at="2022-10-08T15:28:41 IST" finished-at="2022-10-08T15:30:43 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="121978" started-at="2022-10-08T15:28:41 IST" finished-at="2022-10-08T15:30:43 IST">
+      <class name="TestNg.AutomateWebApp">
+        <test-method status="PASS" signature="register()[pri:1, instance:TestNg.AutomateWebApp@51cdd8a]" name="register" duration-ms="24230" started-at="2022-10-08T15:28:41 IST" finished-at="2022-10-08T15:29:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register -->
+        <test-method status="PASS" signature="login()[pri:2, instance:TestNg.AutomateWebApp@51cdd8a]" name="login" duration-ms="33757" started-at="2022-10-08T15:29:06 IST" finished-at="2022-10-08T15:29:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="search()[pri:3, instance:TestNg.AutomateWebApp@51cdd8a]" name="search" duration-ms="63905" started-at="2022-10-08T15:29:39 IST" finished-at="2022-10-08T15:30:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search -->
+      </class> <!-- TestNg.AutomateWebApp -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
